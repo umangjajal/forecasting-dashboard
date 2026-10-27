@@ -6,3 +6,7 @@
 venv/
 node_modules/
 dist/
+backend/data/*.db
+*.docx
+/image.png
+IMPLEMENTATION_PLAN.md
