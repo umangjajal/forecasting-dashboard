@@ -55,3 +55,4 @@ def root():
         "health_url": "/api/health",
         "summary_url": "/api/wind/summary?month=2026-01&gate=d1_1200"
     }
+
